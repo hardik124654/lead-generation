@@ -1,0 +1,5 @@
+{
+  "name": "AI Lead Generation",
+  "description": "An AI-powered application to generate business leads by searching the web for company data based on a user's search subject. Results can be exported to an Excel file.",
+  "requestFramePermissions": []
+}
